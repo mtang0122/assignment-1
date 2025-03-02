@@ -1,4 +1,4 @@
-# zoo-starter-code
+# zoo-code
 
 Group: Marcus Tang - mtang0122
 
