@@ -1,4 +1,4 @@
-# zoo-code
+# Zoo Website Project
 
 Group: Marcus Tang - mtang0122
 
