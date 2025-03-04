@@ -1,8 +1,10 @@
 body {
-  font-family: Gill Sans, sans-serif;
-  background-image: url('img/zoo.jpg');
-  text-align: center;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+	flex: 1;
+	padding: 20px;
+	font-family: Gill Sans, sans-serif;
+	background-image: url('img/zoo.jpg');
+	text-align: center;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
 }
