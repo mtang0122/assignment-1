@@ -8,7 +8,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background-image: url('./img/zoo.jpg');
+  background-image: url('img/zoo.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
@@ -19,5 +19,6 @@ main {
   background-color: rgba(255, 255, 255, 0.8);
   padding: 20px;
   border-radius: 10px;
+  width: 80%;
+  max-width: 600px;
 }
-
